@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://recordit.co/wuTp4Pj3Ux" width=250><br>
+<img src="http://g.recordit.co/ALGQ9qeh2n.gif" width=250><br>
 
 ### Notes
 I tried to render correclty on the in the tab bar button. Tried to rebuild twice but the omages in this view still looked small not covering the whole screen of the phone. I tried with iPhone 11 and looked about the same. I follwed the steps on the video and my steps match exacly those of the video. Not sure what the issue is.
@@ -39,7 +39,6 @@ I tried to render correclty on the in the tab bar button. Tried to rebuild twice
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/775I504rDo.gif" width=250><br>
 
